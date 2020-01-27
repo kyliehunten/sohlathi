@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beiveethu.eric.su/sitemap.xml
